@@ -27,3 +27,8 @@ main {
     background-color: blueviolet;
     grid-row: 2/3;
 }
+
+aside {
+    display: grid;
+    grid-template-rows: ;
+}
